@@ -16,9 +16,9 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
   <li>pip freeze > requirements.txt</li>
 </ul>  
 
-<p align="left"> <a href="https://getbootstrap.com/" target="blank"><img src="https://img.shields.io/twitter/follow/iutsavsingh?logo=twitter&style=for-the-badge" alt="iutsavsingh" /></a> </p>
+<p align="left"> <a href="https://getbootstrap.com/" target="blank"><i class="bi bi-bootstrap"></i></a> </p>
 
-<p align="left"> <a href="https://flask-sqlalchemy.palletsprojects.com/" target="blank"><img src="https://img.shields.io/twitter/follow/iutsavsingh?logo=twitter&style=for-the-badge" alt="iutsavsingh" /></a> </p>
+<p align="left"> <a href="https://flask-sqlalchemy.palletsprojects.com/" target="blank"><i class="bi bi-file"></i></a> </p>
 
 - 👨‍💻 My Portfolio [https://utsavsingh62.github.io/utsavsingh/](https://utsavsingh22.github.io/utsavsingh/)
 
